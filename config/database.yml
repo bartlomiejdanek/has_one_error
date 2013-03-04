@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: has_one_error
+  username: bard
+  password: bard
+  host: localhost
+  pool: 5
